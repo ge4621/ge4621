@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=auto&section=header&text=Welcome%20to%20JiYoung's%20GitHub%20🖐️&fontSize=35&animation=fadeIn&fontAlignY=38)
 
 <!--
 **ge4621/ge4621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
