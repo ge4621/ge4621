@@ -5,7 +5,7 @@
 <br>
 
 
-![JiYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiYoung&count_private=true)
+![JiYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ge4621&count_private=true)
 
 
 <!--
